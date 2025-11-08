@@ -1,1 +1,0 @@
-Frontend static files folder.
